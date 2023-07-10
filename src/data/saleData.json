@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Iphone 14 Promax DeepPurple",
+    "categories": "iphone",
+    "color": "DeepPurple",
+    "storage": "1T",
+    "price": "28.000.000",
+    "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/08/1111.png"
+  },
+  {
+    "id": 2,
+    "title": "Iphone 14 Plus",
+    "categories": "iphone",
+    "color": "Pink",
+    "storage": "1T",
+    "price": "22.000.000",
+    "image": "https://mobilestube.com/wp-content/uploads/2022/08/iphone-14-look.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Iphone 14 Pro",
+    "categories": "iphone",
+    "color": "White",
+    "storage": "512Gb",
+    "price": "24.000.000",
+    "image": "https://applecenter.com.vn/uploads/cms/16632365311998.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Iphone 14 Promax DeepPurple",
+    "categories": "iphone",
+    "color": "DeepPurple",
+    "storage": "512Gb",
+    "price": "26.000.000",
+    "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/08/1111.png"
+  },
+  {
+    "id": 5,
+    "title": "MacBook Air M1 2020",
+    "categories": "Macbook",
+    "color": "Gold",
+    "storage": "512Gb",
+    "price": "16.000.000",
+    "image": "https://macone.vn/wp-content/uploads/2020/11/Macbook-Air-2020-ARM.png"
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro 13Inch",
+    "categories": "Macbook",
+    "color": "Silver",
+    "storage": "256Gb",
+    "price": "28.000.000",
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp-spacegray-select-202206?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664497359481"
+  }
+]
